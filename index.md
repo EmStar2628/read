@@ -4,8 +4,8 @@
 
 ## 📚 世界觀
 
-[點擊這裡了解更多世界觀細節](https://github.com/EmStar2628/read/worldbuilding.md)
+[點擊這裡了解更多世界觀細節](worldbuilding.md)
 
 ## ✨ 魔法系統
 
-[探索魔法系統](https://github.com/EmStar2628/read/worldbuilding.md#魔法系統)
+[探索魔法系統](/worldbuilding.md#魔法系統)
